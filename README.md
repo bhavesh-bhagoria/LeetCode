@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0169-majority-element) |
@@ -51,10 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
