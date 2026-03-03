@@ -9,7 +9,7 @@ class Solution:
         num1 = 0
         num2 = 0
         place = 1
-        
+        #applying while loop
         while l1:
             num1 += l1.val * place
             place *= 10
