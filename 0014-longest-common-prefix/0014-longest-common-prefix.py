@@ -4,7 +4,7 @@ class Solution:
             return ""
 
         first = strs[0]
-
+        # first loop
         for i in range(len(first)):
             for word in strs[1:]:
                 # If index exceeds word length OR characters mismatch
