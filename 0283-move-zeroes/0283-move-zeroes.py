@@ -1,11 +1,13 @@
-class Solution(object):
-    def moveZeroes(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: None Do not return anything, modify nums in-place instead.
-        """
-        count = 0  # position for next non-zero
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[i], nums[count] = nums[count], nums[i]
-                count += 1
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None: 
+        i = 0
+        j = 0
+        n = len(nums)
+        
+        while j < n:
+            if nums[j] != 0:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1
+                j += 1
+            else:
+                j += 1
