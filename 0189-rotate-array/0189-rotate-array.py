@@ -1,5 +1,22 @@
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
         n = len(nums)
-        k = k % n  # in case k > n
-        nums[:] = nums[-k:] + nums[:-k]  # modify in-place
+        x=0
+        y=-k
+        while x<k:
+            if abs(y) >n:
+                y=n
+                item = nums.pop(y-1)
+                nums.insert(0,item)
+                x+=1
+                y+=1
+
+            else:
+                item = nums.pop(y)
+                nums.insert(x,item)
+                x+=1
+                y+=1
+
