@@ -5,7 +5,7 @@ class Solution:
         """
         n = len(nums)
         x=0
-        y=-k
+        y=n
         while x<k:
             
             y=n
