@@ -7,16 +7,12 @@ class Solution:
         x=0
         y=-k
         while x<k:
-            if abs(y) >n:
-                y=n
-                item = nums.pop(y-1)
-                nums.insert(0,item)
-                x+=1
-                y+=1
+            
+            y=n
+            item = nums.pop(y-1)
+            nums.insert(0,item)
+            x+=1
+            y+=1
 
-            else:
-                item = nums.pop(y)
-                nums.insert(x,item)
-                x+=1
-                y+=1
+           
 
