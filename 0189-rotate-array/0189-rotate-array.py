@@ -7,7 +7,6 @@ class Solution:
         x=0
         y=n
         while x<k:
-            
             y=n
             item = nums.pop(y-1)
             nums.insert(0,item)
