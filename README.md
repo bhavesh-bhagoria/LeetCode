@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
