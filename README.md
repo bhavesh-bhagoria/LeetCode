@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
