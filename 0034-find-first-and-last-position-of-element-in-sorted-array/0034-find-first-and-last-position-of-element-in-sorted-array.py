@@ -1,30 +1,41 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        def find_target(start, end):
-            if start > end:
-                return [-1, -1]
 
-            middle = (start + end) // 2
+        def lower_bound():
+            low, high = 0, len(nums) - 1
+            ans = len(nums)
 
-            if nums[middle] == target:
-                left = middle
-                right = middle
+            while low <= high:
+                mid = (low + high) // 2
 
-                while left - 1 >= 0 and nums[left - 1] == target:
-                    left -= 1
+                if nums[mid] >= target:
+                    ans = mid
+                    high = mid - 1
+                else:
+                    low = mid + 1
 
-                while right + 1 < len(nums) and nums[right + 1] == target:
-                    right += 1
+            return ans
 
-                return [left, right]
+        def upper_bound():
+            low, high = 0, len(nums) - 1
+            ans = len(nums)
 
-            elif nums[middle] < target:
-                return find_target(middle + 1, end)
+            while low <= high:
+                mid = (low + high) // 2
 
-            else:
-                return find_target(start, middle - 1)
+                if nums[mid] > target:
+                    ans = mid
+                    high = mid - 1
+                else:
+                    low = mid + 1
 
-        if not nums:
+            return ans
+
+        left = lower_bound()
+
+        if left == len(nums) or nums[left] != target:
             return [-1, -1]
 
-        return find_target(0, len(nums) - 1)
+        right = upper_bound() - 1
+
+        return [left, right]
