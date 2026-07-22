@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -125,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
