@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
 ## String
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
