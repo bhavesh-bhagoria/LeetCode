@@ -1,12 +1,13 @@
 class Solution:
     def removeDuplicates(self, nums):
-        unique = []
-        
-        for num in nums:
-            if num not in unique:
-                unique.append(num)
-        
-        for i in range(len(unique)):
-            nums[i] = unique[i]
-        
-        return len(unique)
+        count = 0
+        i = 0
+        j =1
+      
+        while j<len(nums):
+            if nums[i]==nums[j]:
+                nums.pop(j)
+            else:
+                i+=1
+                j+=1
+        return len(nums)
