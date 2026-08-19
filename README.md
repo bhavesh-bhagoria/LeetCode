@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
