@@ -8,7 +8,7 @@ class Solution:
             if s[i] == "(":
                 depth +=1
                 maximum = max(depth,maximum)
-            if s[i] == ")":
+            elif s[i] == ")":
                 depth -=1
                 maximum = max(depth,maximum)
         return maximum
