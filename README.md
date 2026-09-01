@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0268-missing-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bhavesh-bhagoria/LeetCode/tree/master/0125-valid-palindrome) |
