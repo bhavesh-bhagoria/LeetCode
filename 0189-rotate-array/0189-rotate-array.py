@@ -3,8 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        temp = []
-        k = k % len(nums)
-        while k < len(nums):
-            temp.append(nums.pop(0))
-        nums.extend(temp)
+        n= len(nums)
+        if k>n:
+            k = k%n
+        if k == n:
+            return nums
+        nums[:] = nums[n-k:n] + nums[:n-k]
+            
