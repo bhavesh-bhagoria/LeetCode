@@ -4,8 +4,6 @@ class Solution:
             k = k % len(nums)
         if k == 0:
             return nums
-        print(nums[-k:])
-        print(nums[:len(nums)-k])
         nums[:] = nums[-k:] + nums[:len(nums)-k]
 
         
