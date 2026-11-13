@@ -1,12 +1,13 @@
 class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        n= len(nums)
-        if k>n:
-            k = k%n
-        if k == n:
+    def rotate(self, nums: list[int], k: int) -> None:
+        if k > len(nums):
+            k = k % len(nums)
+        if k == 0:
             return nums
-        nums[:] = nums[n-k:n] + nums[:n-k]
-            
+        print(nums[-k:])
+        print(nums[:len(nums)-k])
+        nums[:] = nums[-k:] + nums[:len(nums)-k]
+
+        
+        
+        
